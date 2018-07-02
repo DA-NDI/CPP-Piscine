@@ -1,0 +1,21 @@
+      oxoxoo    ooxoo
+  ooxoxo oo  oxoxooo
+ oooo xxoxoo ooo ooox
+ oxo o oxoxo  xoxxoxo
+  oxo xooxoooo o ooo
+    oooIIooII  IoIo
+         I  I
+         I  I
+         I  I
+         I DI
+         I  I
+         I  I
+         I  I
+
+
+std::string req[] = {"RobotomyRequestForm", "ShrubberyCreationForm", "PresidentialPardonForm",  \
+                        "robotomy", "shrubby", "President", \
+                        "robotomy request", "shrubber form", "president form"\
+                         "robrequest", "Shrub", "Pres", \
+                         "ShiningAssRequest", "form shrubber", "presik form", \
+                         "RobotomyRequestForm", "ShrubForm", "FormPardon"};
